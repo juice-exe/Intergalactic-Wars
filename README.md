@@ -1,6 +1,6 @@
 # Project by:	Rohan Pandey
 
-Instructions to run the file 'intergalactic_wars.py':
+## Instructions to run the file 'intergalactic_wars.py':
 1. Install the library 'pygame' from the Command Prompt. (all other libraries used are built-in)
 2. open the Python file, run, and enjoy! :)
 
