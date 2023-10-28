@@ -4,6 +4,7 @@
 1. Install the library 'pygame' from the Command Prompt. (all other libraries used are built-in)
 2. open the Python file, run, and enjoy! :)
 
+## Back Story
 Pepe the frog wants to reach the skies but some people don't want that to happen!
 Watch out! Is that THANOS? along with Rick Sanchez & Rick Astley
 Enjoy the old-school space invation arcade game with a completely new look, welcoming your favorite icons from the meme world!
