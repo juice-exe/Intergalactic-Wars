@@ -11,6 +11,6 @@ Enjoy the old-school space invation arcade game with a completely new look, welc
 Dodge enemy fire and use cover fire to proceed, and neither let the enemy touch/shoot you nor let them get behind you!
 5 crossovers and you lose! Also, keep an eye on your ship's health (it's not invincible). Just remember - #memesbeatsweats
 
-Controls:
+## Controls:
 W    A     S     D   (movement)
 SPACE         (shoot)
